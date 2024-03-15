@@ -1,5 +1,5 @@
 version: 1.0
-runtime: go1
+runtime: go1.18.10
 build:
   dockerfile:
     path: ./Dockerfile
