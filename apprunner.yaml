@@ -1,5 +1,5 @@
 version: 1.0
-runtime: custom
+runtime: go1
 build:
   dockerfile:
     path: ./Dockerfile
